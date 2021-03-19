@@ -1,0 +1,13 @@
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\bin\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.exe
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\bin\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.deps.json
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\bin\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.runtimeconfig.json
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\bin\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.runtimeconfig.dev.json
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\bin\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.dll
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\bin\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.pdb
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\obj\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.csprojAssemblyReference.cache
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\obj\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.AssemblyInfoInputs.cache
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\obj\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.AssemblyInfo.cs
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\obj\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\obj\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.dll
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\obj\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.pdb
+C:\Users\Isaias\source\repos\ControledeProdutos_Contrutores\ControledeProdutos_Contrutores\obj\Debug\netcoreapp3.1\ControledeProdutos_Contrutores.genruntimeconfig.cache
